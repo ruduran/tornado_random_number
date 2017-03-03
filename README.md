@@ -18,7 +18,11 @@ Install the requirements:
 
 ## Run the app
 
+To start the application run:
+
 > python random_number.py
+
+Now you can access <http://localhost:8888> to try it.
 
 ## Run the tests
 
